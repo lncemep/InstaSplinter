@@ -1,0 +1,4 @@
+aiogram
+instaloader
+requests
+python-dotenv

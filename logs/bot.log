@@ -1,0 +1,4 @@
+2024-12-24 22:54:59,356 - INFO - База данных инициализирована.
+2024-12-24 22:54:59,915 - INFO - HTTP Request: POST https://api.telegram.org/bot8069822587:AAHf46AuBoFxKLlCifE8JtEQ2RQsQODorkg/getMe "HTTP/1.1 200 OK"
+2024-12-24 22:54:59,916 - INFO - Запуск Telegram-бота...
+2024-12-24 22:54:59,916 - INFO - Application started
